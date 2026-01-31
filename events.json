@@ -1,0 +1,23 @@
+{
+  "lastUpdated": "2026-01-31T06:00:00+01:00",
+  "events": [
+    {
+      "id": "sample-rotterdam-1",
+      "name": "Sample Dominican bachata social",
+      "start": "2026-02-03T20:00:00+01:00",
+      "end": "2026-02-03T23:30:00+01:00",
+      "dayOfWeek": "Tuesday",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": ["Example organiser"],
+      "djs": ["DJ Example"],
+      "description": "Sample event so we can test the page layout.",
+      "urls": [
+        "https://example.com",
+        "https://example.com/info"
+      ],
+      "source": "manual",
+      "lastUpdated": "2026-01-31T06:00:00+01:00"
+    }
+  ]
+}
