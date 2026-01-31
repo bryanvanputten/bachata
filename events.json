@@ -12,9 +12,10 @@
       "organisers": ["Example organiser"],
       "djs": ["DJ Example"],
       "description": "Sample event so we can test the page layout.",
-      "urls": [
-        "https://example.com",
-        "https://example.com/info"
+      "links": [
+        { "label": "Tickets", "url": "https://example.com/tickets" },
+        { "label": "Facebook event", "url": "https://example.com/facebook" },
+        { "label": "Official website", "url": "https://example.com" }
       ],
       "source": "manual",
       "lastUpdated": "2026-01-31T06:00:00+01:00"
