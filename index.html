@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dominican bachata agenda (NL + BE)</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; margin: 24px; line-height: 1.4; }
+    header { margin-bottom: 18px; }
+    .meta { font-size: 0.9rem; opacity: 0.75; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; }
+    .day { padding: 14px; border: 1px solid #ddd; border-radius: 12px; background: #fff; }
+    .day h2 { margin: 0 0 10px; font-size: 1.1rem; }
+    .event { padding: 10px; border: 1px solid #eee; border-radius: 12px; margin-bottom: 10px; background: #fafafa; }
+    .event:last-child { margin-bottom: 0; }
+    .title { font-weight: 700; }
+    .line { font-size: 0.95rem; opacity: 0.9; margin-top: 4px; }
+    .links a { margin-right: 10px; font-size: 0.95rem; }
+    .empty { font-size: 0.95rem; opacity: 0.7; }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Dominican bachata agenda (NL + BE)</h1>
+    <div class="meta" id="lastUpdated">Loading…</div>
+  </header>
+
+  <main class="grid" id="weekGrid"></main>
+
+  <script>
+    const DAYS = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
+
+    function dayNameFromISO(isoString) {
+      const d = new Date(isoString);
+      const map = { 0: "Sunday", 1: "Monday", 2: "Tuesday", 3: "Wednesday", 4: "Thursday", 5: "Friday", 6: "Saturday" };
+      return map[d.getDay()];
+    }
+
+    function formatDateTime(isoString) {
+      const d = new Date(isoString);
+      return d.toLocaleString(undefined, { weekday: "short", hour: "2-digit", minute: "2-digit" });
+    }
+
+    function capUrls(urls) {
+      if (!Array.isArray(urls)) return [];
+      return urls.slice(0, 3).filter(Boolean);
+    }
+
+    function renderWeek(events, lastUpdated) {
+      const grid = document.getElementById("weekGrid");
+      grid.innerHTML = "";
+
+      const grouped = Object.fromEntries(DAYS.map(day => [day, []]));
+      for (const ev of events) {
+        const day = ev.dayOfWeek || dayNameFromISO(ev.start);
+        if (!grouped[day]) grouped[day] = [];
+        grouped[day].push(ev);
+      }
+
+      for (const day of Object.keys(grouped)) {
+        grouped[day].sort((a, b) => new Date(a.start) - new Date(b.start));
+      }
+
+      const meta = document.getElementById("lastUpdated");
+      meta.textContent = lastUpdated ? `Last updated: ${new Date(lastUpdated).toLocaleString()}` : "";
+
+      for (const day of DAYS) {
+        const col = document.createElement("section");
+        col.className = "day";
+
+        const h = document.createElement("h2");
+        h.textContent = day;
+        col.appendChild(h);
+
+        const list = grouped[day];
+        if (!list || list.length === 0) {
+          const p = document.createElement("div");
+          p.className = "empty";
+          p.textContent = "No events listed yet.";
+          col.appendChild(p);
+        } else {
+          for (const ev of list) {
+            const card = document.createElement("div");
+            card.className = "event";
+
+            const title = document.createElement("div");
+            title.className = "title";
+            title.textContent = ev.name || "Untitled event";
+            card.appendChild(title);
+
+            const line1 = document.createElement("div");
+            line1.className = "line";
+            line1.textContent = `${ev.city || "Unknown city"} • ${formatDateTime(ev.start)}${ev.end ? " – " + formatDateTime(ev.end) : ""}`;
+            card.appendChild(line1);
+
+            if (ev.organisers) {
+              const org = document.createElement("div");
+              org.className = "line";
+              org.textContent = `Organisers: ${Array.isArray(ev.organisers) ? ev.organisers.join(", ") : ev.organisers}`;
+              card.appendChild(org);
+            }
+
+            if (ev.djs) {
+              const djs = document.createElement("div");
+              djs.className = "line";
+              djs.textContent = `DJs: ${Array.isArray(ev.djs) ? ev.djs.join(", ") : ev.djs}`;
+              card.appendChild(djs);
+            }
+
+            if (ev.description) {
+              const desc = document.createElement("div");
+              desc.className = "line";
+              desc.textContent = ev.description;
+              card.appendChild(desc);
+            }
+
+            const urls = capUrls(ev.urls);
+            if (urls.length) {
+              const links = document.createElement("div");
+              links.className = "links line";
+              urls.forEach((u, i) => {
+                const a = document.createElement("a");
+                a.href = u;
+                a.target = "_blank";
+                a.rel = "noopener noreferrer";
+                a.textContent = i === 0 ? "More info" : `Link ${i + 1}`;
+                links.appendChild(a);
+              });
+              card.appendChild(links);
+            }
+
+            col.appendChild(card);
+          }
+        }
+
+        grid.appendChild(col);
+      }
+    }
+
+    async function load() {
+      const res = await fetch("./events.json", { cache: "no-store" });
+      const data = await res.json();
+      renderWeek(data.events || [], data.lastUpdated);
+    }
+
+    load().catch(() => {
+      document.getElementById("lastUpdated").textContent = "Could not load events.";
+    });
+  </script>
+</body>
+</html>
