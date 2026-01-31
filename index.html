@@ -42,10 +42,14 @@
       return d.toLocaleString(undefined, { weekday: "short", hour: "2-digit", minute: "2-digit" });
     }
 
-    function capUrls(urls) {
-      if (!Array.isArray(urls)) return [];
-      return urls.slice(0, 3).filter(Boolean);
-    }
+function capLinks(links) {
+  if (!Array.isArray(links)) return [];
+  return links
+    .filter(l => l && l.url)
+    .slice(0, 3)
+    .map(l => ({ label: l.label || "More info", url: l.url }));
+}
+
 
     function renderWeek(events, lastUpdated) {
       const grid = document.getElementById("weekGrid");
