@@ -149,9 +149,12 @@ function capLinks(links) {
       renderWeek(data.events || [], data.lastUpdated);
     }
 
-    load().catch(() => {
-      document.getElementById("lastUpdated").textContent = "Could not load events.";
-    });
+   load().catch((err) => {
+  document.getElementById("lastUpdated").textContent =
+    "Could not load events: " + (err?.message || String(err));
+  console.error(err);
+});
+
   </script>
 </body>
 </html>
