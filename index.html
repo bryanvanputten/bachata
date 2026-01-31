@@ -119,21 +119,22 @@ function capLinks(links) {
               card.appendChild(desc);
             }
 
-            const urls = capUrls(ev.urls);
-            if (urls.length) {
-              const links = document.createElement("div");
-              links.className = "links line";
-              urls.forEach((u, i) => {
-                const a = document.createElement("a");
-                a.href = u;
-                a.target = "_blank";
-                a.rel = "noopener noreferrer";
-                a.textContent = i === 0 ? "More info" : `Link ${i + 1}`;
-                links.appendChild(a);
-              });
-              card.appendChild(links);
-            }
+            const links = capLinks(ev.links);
+           if (links.length) {
+  const linksWrap = document.createElement("div");
+  linksWrap.className = "links line";
 
+  links.forEach((l) => {
+    const a = document.createElement("a");
+    a.href = l.url;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    a.textContent = l.label;
+    linksWrap.appendChild(a);
+  });
+
+  card.appendChild(linksWrap);
+}
             col.appendChild(card);
           }
         }
