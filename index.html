@@ -32,15 +32,23 @@
     const DAYS = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
 
     function dayNameFromISO(isoString) {
-      const d = new Date(isoString);
-      const map = { 0: "Sunday", 1: "Monday", 2: "Tuesday", 3: "Wednesday", 4: "Thursday", 5: "Friday", 6: "Saturday" };
-      return map[d.getDay()];
-    }
+  const d = new Date(isoString);
+  const weekday = new Intl.DateTimeFormat("en-GB", {
+    timeZone: "Europe/Amsterdam",
+    weekday: "long"
+  }).format(d);
+  return weekday;
+}
 
-    function formatDateTime(isoString) {
-      const d = new Date(isoString);
-      return d.toLocaleString(undefined, { weekday: "short", hour: "2-digit", minute: "2-digit" });
-    }
+   function formatDateTime(isoString) {
+  const d = new Date(isoString);
+  return new Intl.DateTimeFormat("en-GB", {
+    timeZone: "Europe/Amsterdam",
+    weekday: "short",
+    hour: "2-digit",
+    minute: "2-digit"
+  }).format(d);
+}
 
 function capLinks(links) {
   if (!Array.isArray(links)) return [];
