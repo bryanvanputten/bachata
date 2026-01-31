@@ -1,24 +1,3153 @@
-{
-  "lastUpdated": "2026-01-31T06:00:00+01:00",
+={
+  "lastUpdated": "2026-01-31T10:50:39.369Z",
   "events": [
     {
-      "id": "sample-rotterdam-1",
-      "name": "Sample Dominican bachata social",
-      "start": "2026-02-03T20:00:00+01:00",
-      "end": "2026-02-03T23:30:00+01:00",
-      "dayOfWeek": "Tuesday",
+      "id": "datavis-2026-01-31-amstelveen-20-00-kizomba-party-flavourkizz-events",
+      "source": "datavis",
+      "name": "Kizomba Party FlavourKizz Events",
+      "start": "2026-01-31T20:00:00",
+      "end": "2026-02-01T02:00:00",
+      "city": "Amstelveen",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-amsterdam-19-00-salsad-cuba-punto-cubano",
+      "source": "datavis",
+      "name": "SalsaD'Cuba Punto Cubano",
+      "start": "2026-01-31T19:00:00",
+      "end": "2026-02-01T00:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-assendelft-20-30-let-s-go-party",
+      "source": "datavis",
+      "name": "Let's Go Party",
+      "start": "2026-01-31T20:30:00",
+      "end": "2026-02-01T00:00:00",
+      "city": "Assendelft",
+      "country": "NL",
+      "organisers": [
+        "Salsa Paleis"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-breda-21-00-latin-libre-dance",
+      "source": "datavis",
+      "name": "Latin Libre dance",
+      "start": "2026-01-31T21:00:00",
+      "end": "2026-02-01T01:00:00",
+      "city": "Breda",
+      "country": "NL",
+      "organisers": [
+        "and more"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-breda-22-00-pi-a-pi-a",
+      "source": "datavis",
+      "name": "PIÑA PIÑA",
+      "start": "2026-01-31T22:00:00",
+      "end": "2026-02-01T04:00:00",
+      "city": "Breda",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-brielle-20-00-ritmo-salsa-y-bachata",
+      "source": "datavis",
+      "name": "Ritmo - Salsa y Bachata",
+      "start": "2026-01-31T20:00:00",
+      "end": "2026-02-01T01:30:00",
+      "city": "Brielle",
+      "country": "NL",
+      "organisers": [
+        "Wakker Events"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-dordrecht-20-30-salsa-feest-cubana",
+      "source": "datavis",
+      "name": "Salsa Feest Cubana",
+      "start": "2026-01-31T20:30:00",
+      "end": "2026-02-01T01:00:00",
+      "city": "Dordrecht",
+      "country": "NL",
+      "organisers": [
+        "Rincon Cubano"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-groningen-21-00-latin-mix-night-kizomba-meets-salsa-mais-q-ki",
+      "source": "datavis",
+      "name": "Latin Mix Night - Kizomba meets Salsa Mais Q'Kizomba,",
+      "start": "2026-01-31T21:00:00",
+      "end": "2026-02-01T02:00:00",
+      "city": "Groningen",
+      "country": "NL",
+      "organisers": [
+        "Dansschool Cariño"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-hengelo-22-30-pi-a-pi-a",
+      "source": "datavis",
+      "name": "PIÑA PIÑA",
+      "start": "2026-01-31T22:30:00",
+      "end": "2026-02-01T04:00:00",
+      "city": "Hengelo",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-hoofddorp-18-00-bachata-salsa-kizomba-fire",
+      "source": "datavis",
+      "name": "Bachata Salsa Kizomba Fire",
+      "start": "2026-01-31T18:00:00",
+      "end": "2026-02-01T01:00:00",
+      "city": "Hoofddorp",
+      "country": "NL",
+      "organisers": [
+        "Dance Academy"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-hoogvliet-20-00-the-kizomba-semba-night-dan-a",
+      "source": "datavis",
+      "name": "The Kizomba-Semba Night Dança",
+      "start": "2026-01-31T20:00:00",
+      "end": "2026-02-01T02:00:00",
+      "city": "Hoogvliet",
+      "country": "NL",
+      "organisers": [
+        "Angolano Dansschool"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-kinderdijk-21-30-bachata-ex-tica-exotic-events",
+      "source": "datavis",
+      "name": "Bachata Exótica Exotic-Events",
+      "start": "2026-01-31T21:30:00",
+      "end": "2026-02-01T02:30:00",
+      "city": "Kinderdijk",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-leiden-21-00-latin-dinner-party-cultuur-caf-",
+      "source": "datavis",
+      "name": "Latin Dinner Party Cultuur Café",
+      "start": "2026-01-31T21:00:00",
+      "end": "2026-02-01T02:00:00",
+      "city": "Leiden",
+      "country": "NL",
+      "organisers": [
+        "Leidse Lente"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-leiderdorp-20-30-fuego-tropical-fuego-tropical",
+      "source": "datavis",
+      "name": "Fuego Tropical Fuego Tropical",
+      "start": "2026-01-31T20:30:00",
+      "end": "2026-02-01T01:00:00",
+      "city": "Leiderdorp",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-rijswijk-21-00-bachata-passion-social-bachata-passion",
+      "source": "datavis",
+      "name": "Bachata Passion Social Bachata Passion",
+      "start": "2026-01-31T21:00:00",
+      "end": "2026-02-01T02:00:00",
+      "city": "Rijswijk",
+      "country": "NL",
+      "organisers": [
+        "Dance Company"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-rotterdam-23-00-lovumba-lovumba",
+      "source": "datavis",
+      "name": "Lovumba Lovumba",
+      "start": "2026-01-31T23:00:00",
+      "end": "2026-02-01T05:00:00",
       "city": "Rotterdam",
       "country": "NL",
-      "organisers": ["Example organiser"],
-      "djs": ["DJ Example"],
-      "description": "Sample event so we can test the page layout.",
-      "links": [
-        { "label": "Tickets", "url": "https://example.com/tickets" },
-        { "label": "Facebook event", "url": "https://example.com/facebook" },
-        { "label": "Official website", "url": "https://example.com" }
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-stein-21-30-bachata-madness-latin",
+      "source": "datavis",
+      "name": "Bachata Madness Latin",
+      "start": "2026-01-31T21:30:00",
+      "end": "2026-02-01T03:00:00",
+      "city": "Stein",
+      "country": "NL",
+      "organisers": [
+        "Madness Events"
       ],
-      "source": "manual",
-      "lastUpdated": "2026-01-31T06:00:00+01:00"
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.363Z"
+    },
+    {
+      "id": "datavis-2026-01-31-tilburg-21-00-i-love-bachata-la-2nd",
+      "source": "datavis",
+      "name": "I Love Bachata - La 2nd",
+      "start": "2026-01-31T21:00:00",
+      "end": "2026-02-01T03:00:00",
+      "city": "Tilburg",
+      "country": "NL",
+      "organisers": [
+        "Edition Onbekend"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-01-31-utrecht-21-00-salsa-night-union-salsa",
+      "source": "datavis",
+      "name": "Salsa Night Union Salsa",
+      "start": "2026-01-31T21:00:00",
+      "end": "2026-02-01T02:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [
+        "Dance Company"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-01-31-wageningen-18-00-jasper-s-cuban-salsa-party",
+      "source": "datavis",
+      "name": "Jasper's Cuban Salsa Party",
+      "start": "2026-01-31T18:00:00",
+      "end": "2026-01-31T22:00:00",
+      "city": "Wageningen",
+      "country": "NL",
+      "organisers": [
+        "Jasper Peijerr"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-01-31-wageningen-21-00-salsa-special-live-esquina-latina-grand-caf-",
+      "source": "datavis",
+      "name": "Salsa Special - Live Esquina Latina Grand Café Loburg,",
+      "start": "2026-01-31T21:00:00",
+      "end": "2026-02-01T02:00:00",
+      "city": "Wageningen",
+      "country": "NL",
+      "organisers": [
+        "Esquina Latina"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-01-31-zoetermeer-20-30-latin-mix-party-release",
+      "source": "datavis",
+      "name": "Latin Mix Party Release",
+      "start": "2026-01-31T20:30:00",
+      "end": "2026-02-01T00:30:00",
+      "city": "Zoetermeer",
+      "country": "NL",
+      "organisers": [
+        "Dance Academy"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-01-31-zoetermeer-22-00-el-batey-restaurant-le",
+      "source": "datavis",
+      "name": "El Batey Restaurant Le",
+      "start": "2026-01-31T22:00:00",
+      "end": "2026-02-01T04:00:00",
+      "city": "Zoetermeer",
+      "country": "NL",
+      "organisers": [
+        "Club BBQ"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-amsterdam-20-00-zouk-social-brazilian",
+      "source": "datavis",
+      "name": "Zouk Social Brazilian",
+      "start": "2026-02-01T20:00:00",
+      "end": "2026-02-01T23:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Zouk Amsterdam"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-amsterdam-20-00-latin-circus-extremos",
+      "source": "datavis",
+      "name": "Latin Circus Extremos",
+      "start": "2026-02-01T20:00:00",
+      "end": "2026-02-02T01:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-amsterdam-21-00-latin-night-la-salsa",
+      "source": "datavis",
+      "name": "Latin Night La Salsa",
+      "start": "2026-02-01T21:00:00",
+      "end": "2026-02-02T00:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-arnhem-20-00-m-s-y-m-s",
+      "source": "datavis",
+      "name": "Más y Más",
+      "start": "2026-02-01T20:00:00",
+      "end": "2026-02-01T23:00:00",
+      "city": "Arnhem",
+      "country": "NL",
+      "organisers": [
+        "Amante Latino"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-best-18-00-tropicalia-tropicalia",
+      "source": "datavis",
+      "name": "Tropicalia Tropicalia",
+      "start": "2026-02-01T18:00:00",
+      "end": "2026-02-02T00:00:00",
+      "city": "Best",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-breda-16-00-dance-connect-ambiente",
+      "source": "datavis",
+      "name": "Dance & Connect Ambiente",
+      "start": "2026-02-01T16:00:00",
+      "end": "2026-02-01T20:00:00",
+      "city": "Breda",
+      "country": "NL",
+      "organisers": [
+        "Cubano Events"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-den-haag-16-00-salsa-oefenmatinee",
+      "source": "datavis",
+      "name": "16:00 Salsa Oefenmatinee",
+      "start": "2026-02-01THaag:00",
+      "end": "2026-02-01T13:00:00",
+      "city": "Den",
+      "country": "NL",
+      "organisers": [
+        "Salsa Prisiri"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-dordrecht-16-00-giants-salsa-giants-salsa",
+      "source": "datavis",
+      "name": "Giants Salsa Giants Salsa",
+      "start": "2026-02-01T16:00:00",
+      "end": "2026-02-01T21:00:00",
+      "city": "Dordrecht",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-haarlem-18-00-latin-matinee-dude-entertainment",
+      "source": "datavis",
+      "name": "Latin Matinee Dude Entertainment",
+      "start": "2026-02-01T18:00:00",
+      "end": "2026-02-01T21:30:00",
+      "city": "Haarlem",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-haren-19-00-baila-by-the-lake-the",
+      "source": "datavis",
+      "name": "Baila by the Lake The",
+      "start": "2026-02-01T19:00:00",
+      "end": "2026-02-01T23:00:00",
+      "city": "Haren",
+      "country": "NL",
+      "organisers": [
+        "Baila Movement"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-hengelo-20-30-salsa-party-el-centro-de",
+      "source": "datavis",
+      "name": "Salsa Party El centro de",
+      "start": "2026-02-01T20:30:00",
+      "end": "2026-02-01T23:30:00",
+      "city": "Hengelo",
+      "country": "NL",
+      "organisers": [
+        "la Salsa"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-hilversum-16-00-baile-de-fiesta-matinee-esencia",
+      "source": "datavis",
+      "name": "Baile de Fiesta Matinee Esencia",
+      "start": "2026-02-01T16:00:00",
+      "end": "2026-02-01T20:00:00",
+      "city": "Hilversum",
+      "country": "NL",
+      "organisers": [
+        "Dance Studio"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-hoogvliet-19-00-cozy-kizomba-kizomba-fun",
+      "source": "datavis",
+      "name": "Cozy Kizomba  Kizomba.fun",
+      "start": "2026-02-01T19:00:00",
+      "end": "2026-02-01T23:00:00",
+      "city": "Hoogvliet",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-leiden-14-30-leiden-cuban-salsa-party-leiden-cuban",
+      "source": "datavis",
+      "name": "Leiden Cuban Salsa Party Leiden Cuban",
+      "start": "2026-02-01T14:30:00",
+      "end": "2026-02-01T20:00:00",
+      "city": "Leiden",
+      "country": "NL",
+      "organisers": [
+        "Salsa Party"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-leiden-16-00-salsa-sundays-live-band-septeto-trio-los-dos",
+      "source": "datavis",
+      "name": "Salsa Sundays - Live Band Septeto Trio Los Dos",
+      "start": "2026-02-01T16:00:00",
+      "end": "2026-02-01T20:00:00",
+      "city": "Leiden",
+      "country": "NL",
+      "organisers": [
+        "Salsa Sundays"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-maastricht-18-00-latin-sense-party",
+      "source": "datavis",
+      "name": "Latin Sense Party",
+      "start": "2026-02-01T18:00:00",
+      "end": "2026-02-01T23:00:00",
+      "city": "Maastricht",
+      "country": "NL",
+      "organisers": [
+        "Angelo Valks"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-maastricht-19-00-dinner-dance",
+      "source": "datavis",
+      "name": "Dinner & Dance",
+      "start": "2026-02-01T19:00:00",
+      "end": "2026-02-02T02:00:00",
+      "city": "Maastricht",
+      "country": "NL",
+      "organisers": [
+        "Salsa Brisa"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-nijmegen-15-00-atardi-social-waalzicht",
+      "source": "datavis",
+      "name": "Atardi Social  Waalzicht",
+      "start": "2026-02-01T15:00:00",
+      "end": "2026-02-01T19:00:00",
+      "city": "Nijmegen",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-steenbergen-15-00-latin-vibes-myra-ceti",
+      "source": "datavis",
+      "name": "Latin Vibes Myra Ceti",
+      "start": "2026-02-01T15:00:00",
+      "end": "2026-02-01T19:30:00",
+      "city": "Steenbergen",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-utrecht-11-00-nova-cubana-morning-practice",
+      "source": "datavis",
+      "name": "Nova Cubana - Morning Practice",
+      "start": "2026-02-01T11:00:00",
+      "end": "2026-02-01T13:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [
+        "Nova Dance"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-vinkeveen-18-00-de-vink-kizomba-social",
+      "source": "datavis",
+      "name": "De Vink Kizomba Social",
+      "start": "2026-02-01T18:00:00",
+      "end": "2026-02-02T00:00:00",
+      "city": "Vinkeveen",
+      "country": "NL",
+      "organisers": [
+        "FlavourKizz Events"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-01-voorhout-17-00-latin-071-let-inn-dance",
+      "source": "datavis",
+      "name": "Latin 071 Let-inn Dance",
+      "start": "2026-02-01T17:00:00",
+      "end": "2026-02-01T22:00:00",
+      "city": "Voorhout",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-02-amsterdam-21-00-bachata-on-mondays-bar",
+      "source": "datavis",
+      "name": "Bachata on Mondays Bar",
+      "start": "2026-02-02T21:00:00",
+      "end": "2026-02-03T00:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Twenty Two"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-02-amsterdam-21-00-kizz-meetup-kizz-meetup",
+      "source": "datavis",
+      "name": "Kizz MeetUp Kizz Meetup",
+      "start": "2026-02-02T21:00:00",
+      "end": "2026-02-03T01:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-02-hoofddorp-19-30-bachata-sensual-salsa-fire",
+      "source": "datavis",
+      "name": "Bachata Sensual & Salsa Fire",
+      "start": "2026-02-02T19:30:00",
+      "end": "2026-02-03T00:00:00",
+      "city": "Hoofddorp",
+      "country": "NL",
+      "organisers": [
+        "Dance Academy"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-03-almere-21-45-let-s-dance-party-tropische",
+      "source": "datavis",
+      "name": "Let's Dance Party Tropische",
+      "start": "2026-02-03T21:45:00",
+      "end": "2026-02-04T00:30:00",
+      "city": "Almere",
+      "country": "NL",
+      "organisers": [
+        "Dansschool Burnet"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-03-amsterdam-22-00-kizomba-social-our",
+      "source": "datavis",
+      "name": "Kizomba Social Our",
+      "start": "2026-02-03T22:00:00",
+      "end": "2026-02-04T01:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Kizomba Connection"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-03-deventer-21-00-vrijdansen-salsa-cubaans-bachata",
+      "source": "datavis",
+      "name": "Vrijdansen - Salsa, Cubaans & Bachata",
+      "start": "2026-02-03T21:00:00",
+      "end": "2026-02-03T23:00:00",
+      "city": "Deventer",
+      "country": "NL",
+      "organisers": [
+        "Salsa Viva"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-03-groningen-20-00-libertas-danza-dj-dawood",
+      "source": "datavis",
+      "name": "Libertas Danza DJ Dawood",
+      "start": "2026-02-03T20:00:00",
+      "end": "2026-02-03T23:00:00",
+      "city": "Groningen",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-03-rotterdam-20-00-striktly-social-striktly-salsa",
+      "source": "datavis",
+      "name": "Striktly Social Striktly Salsa",
+      "start": "2026-02-03T20:00:00",
+      "end": "2026-02-04T01:00:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [
+        "en Bachata"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-03-rotterdam-20-00-mama-juana-bachata-autentica",
+      "source": "datavis",
+      "name": "Mama Juana - Bachata autentica",
+      "start": "2026-02-03T20:00:00",
+      "end": "2026-02-04T01:00:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [
+        "Mama Juana"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-03-rotterdam-21-00-afterworkz-kizomba-social",
+      "source": "datavis",
+      "name": "Afterworkz Kizomba Social",
+      "start": "2026-02-03T21:00:00",
+      "end": "2026-02-04T01:00:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [
+        "Mode Zéro"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-03-utrecht-20-15-salsa-on-maarten-jansen",
+      "source": "datavis",
+      "name": "Salsa on  Maarten Jansen",
+      "start": "2026-02-03T20:15:00",
+      "end": "2026-02-03T23:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-04-amsterdam-21-00-latin-night-la-salsa",
+      "source": "datavis",
+      "name": "Latin Night La Salsa",
+      "start": "2026-02-04T21:00:00",
+      "end": "2026-02-05T00:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-04-amsterdam-21-00-kizomba-night-caf-",
+      "source": "datavis",
+      "name": "Kizomba Night Café",
+      "start": "2026-02-04T21:00:00",
+      "end": "2026-02-05T01:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "São Paulo"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-04-de-bilt-23-00-universal-salsa-night-peurs",
+      "source": "datavis",
+      "name": "23:00 Universal Salsa Night Peurs",
+      "start": "2026-02-04TBilt:00",
+      "end": "2026-02-04T20:30:00",
+      "city": "De",
+      "country": "NL",
+      "organisers": [
+        "Universal Salsa"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-04-den-haag-01-00-salsa-night",
+      "source": "datavis",
+      "name": "01:00 Salsa Night",
+      "start": "2026-02-04THaag:00",
+      "end": "2026-02-04T21:00:00",
+      "city": "Den",
+      "country": "NL",
+      "organisers": [
+        "La Bodeguita"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-04-maastricht-22-00-bailame-s-salsa-brisa",
+      "source": "datavis",
+      "name": "Bailame 's Salsa Brisa",
+      "start": "2026-02-04T22:00:00",
+      "end": "2026-02-05T01:00:00",
+      "city": "Maastricht",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-04-nijmegen-21-00-noche-social-salsa-y-bachata",
+      "source": "datavis",
+      "name": "Noche Social - Salsa y Bachata",
+      "start": "2026-02-04T21:00:00",
+      "end": "2026-02-04T23:00:00",
+      "city": "Nijmegen",
+      "country": "NL",
+      "organisers": [
+        "Fusion Latina"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.364Z"
+    },
+    {
+      "id": "datavis-2026-02-04-rotterdam-20-00-papagayo-social-papagayo",
+      "source": "datavis",
+      "name": "Papagayo Social Papagayo",
+      "start": "2026-02-04T20:00:00",
+      "end": "2026-02-05T00:00:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [
+        "Latin Party"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-04-utrecht-22-00-bachata-practice-night",
+      "source": "datavis",
+      "name": "Bachata Practice Night",
+      "start": "2026-02-04T22:00:00",
+      "end": "2026-02-05T01:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [
+        "Nova Dance"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-alphen-aan-rijn-19-15-23-15-latinallfun-party-have-fun",
+      "source": "datavis",
+      "name": "Rijn 19:15 23:15 LatinAllFun Party Have Fun",
+      "start": "2026-02-05Taan:00",
+      "end": "2026-02-05Tden:00",
+      "city": "Alphen",
+      "country": "NL",
+      "organisers": [
+        "on Salsa"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-amersfoort-19-30-fuego-tropical-fuego-tropical",
+      "source": "datavis",
+      "name": "Fuego Tropical Fuego Tropical",
+      "start": "2026-02-05T19:30:00",
+      "end": "2026-02-05T23:30:00",
+      "city": "Amersfoort",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-amsterdam-20-00-latin-latin-dance-culture",
+      "source": "datavis",
+      "name": "Latin  Latin Dance Culture",
+      "start": "2026-02-05T20:00:00",
+      "end": "2026-02-06T00:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-amsterdam-21-00-salsa-night-ok-n-salsa",
+      "source": "datavis",
+      "name": "Salsa Night Okán Salsa",
+      "start": "2026-02-05T21:00:00",
+      "end": "2026-02-06T01:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-amsterdam-21-00-bachata-in-the-city",
+      "source": "datavis",
+      "name": "Bachata in the City",
+      "start": "2026-02-05T21:00:00",
+      "end": "2026-02-06T01:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Cancún Amsterdam"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-breda-21-00-libre-latin-night-libre-dance",
+      "source": "datavis",
+      "name": "Libre Latin Night Libre dance",
+      "start": "2026-02-05T21:00:00",
+      "end": "2026-02-06T01:00:00",
+      "city": "Breda",
+      "country": "NL",
+      "organisers": [
+        "and more"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-den-haag-01-00-latin-night-musicon",
+      "source": "datavis",
+      "name": "01:00 Latin Night Musicon",
+      "start": "2026-02-05THaag:00",
+      "end": "2026-02-05T20:30:00",
+      "city": "Den",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-eindhoven-21-00-salsa-y-mojito-salsa-social-dancing-santiago",
+      "source": "datavis",
+      "name": "Salsa y Mojito - Salsa social dancing Santiago",
+      "start": "2026-02-05T21:00:00",
+      "end": "2026-02-06T01:00:00",
+      "city": "Eindhoven",
+      "country": "NL",
+      "organisers": [
+        "de Cuba"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-enschede-21-00-rico-latino-social-dance",
+      "source": "datavis",
+      "name": "Rico Latino Social Dance",
+      "start": "2026-02-05T21:00:00",
+      "end": "2026-02-06T01:00:00",
+      "city": "Enschede",
+      "country": "NL",
+      "organisers": [
+        "Rico Latino"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-hoofddorp-19-30-kizomba-urban-kizz-fire",
+      "source": "datavis",
+      "name": "Kizomba Urban Kizz Fire",
+      "start": "2026-02-05T19:30:00",
+      "end": "2026-02-06T00:00:00",
+      "city": "Hoofddorp",
+      "country": "NL",
+      "organisers": [
+        "Dance Academy"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-hoogvliet-21-00-mi-zjilea-practice-night",
+      "source": "datavis",
+      "name": "Mi Zjilea Practice Night",
+      "start": "2026-02-05T21:00:00",
+      "end": "2026-02-06T00:30:00",
+      "city": "Hoogvliet",
+      "country": "NL",
+      "organisers": [
+        "Mi Zjilea"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-rotterdam-21-00-elevate-your-kiz-practice-night-elevate",
+      "source": "datavis",
+      "name": "Elevate Your Kiz Practice Night Elevate",
+      "start": "2026-02-05T21:00:00",
+      "end": "2026-02-06T01:00:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [
+        "Your Kiz"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-tilburg-21-00-fiesta-tropical-didier-numbi",
+      "source": "datavis",
+      "name": "Fiesta Tropical Didier Numbi",
+      "start": "2026-02-05T21:00:00",
+      "end": "2026-02-06T01:30:00",
+      "city": "Tilburg",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-05-utrecht-21-00-latin-night-union-salsa",
+      "source": "datavis",
+      "name": "Latin Night Union Salsa",
+      "start": "2026-02-05T21:00:00",
+      "end": "2026-02-06T01:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [
+        "Dance Company"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-alphen-aan-rijn-23-00-03-00-the-hype-kizz-the",
+      "source": "datavis",
+      "name": "Rijn 23:00 03:00 The Hype Kizz The",
+      "start": "2026-02-06Taan:00",
+      "end": "2026-02-06Tden:00",
+      "city": "Alphen",
+      "country": "NL",
+      "organisers": [
+        "Hype Kizz"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-amstelveen-20-30-get-together-party",
+      "source": "datavis",
+      "name": "Get Together Party",
+      "start": "2026-02-06T20:30:00",
+      "end": "2026-02-07T01:00:00",
+      "city": "Amstelveen",
+      "country": "NL",
+      "organisers": [
+        "Salsa Flamingo"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-arnhem-20-00-cuba-social-club-live-cuba",
+      "source": "datavis",
+      "name": "Cuba Social Club Live Cuba",
+      "start": "2026-02-06T20:00:00",
+      "end": "2026-02-06T23:00:00",
+      "city": "Arnhem",
+      "country": "NL",
+      "organisers": [
+        "Social Club"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-breda-21-00-specials-salsa-met-begeleiding-salsa",
+      "source": "datavis",
+      "name": "Specials: Salsa met Begeleiding Salsa",
+      "start": "2026-02-06T21:00:00",
+      "end": "2026-02-07T01:00:00",
+      "city": "Breda",
+      "country": "NL",
+      "organisers": [
+        "in Breda.nl"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-eindhoven-21-00-night-social-christiaan-simons",
+      "source": "datavis",
+      "name": "Night Social Christiaan Simons",
+      "start": "2026-02-06T21:00:00",
+      "end": "2026-02-06TZouk:00",
+      "city": "Eindhoven",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-eindhoven-21-00-cadencia-xl-party-cadencia",
+      "source": "datavis",
+      "name": "Cadencia XL Party Cadencia",
+      "start": "2026-02-06T21:00:00",
+      "end": "2026-02-07T01:00:00",
+      "city": "Eindhoven",
+      "country": "NL",
+      "organisers": [
+        "Dance Academy"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-enschede-20-30-bachata-kizomba-night",
+      "source": "datavis",
+      "name": "Bachata & Kizomba Night",
+      "start": "2026-02-06T20:30:00",
+      "end": "2026-02-07T00:15:00",
+      "city": "Enschede",
+      "country": "NL",
+      "organisers": [
+        "Salsafever Enschede"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-goes-21-00-havana-night-live-porque-no-carnaval",
+      "source": "datavis",
+      "name": "Havana Night - Live Porque No - Carnaval",
+      "start": "2026-02-06T21:00:00",
+      "end": "2026-02-07T02:00:00",
+      "city": "Goes",
+      "country": "NL",
+      "organisers": [
+        "Edition MiSalsa"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-groningen-20-00-freida-neti-dansi-marcel",
+      "source": "datavis",
+      "name": "Freida Neti Dansi Marcel",
+      "start": "2026-02-06T20:00:00",
+      "end": "2026-02-07T00:00:00",
+      "city": "Groningen",
+      "country": "NL",
+      "organisers": [
+        "& Sienette"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-haarlem-21-30-latin-club-fiesta-social-latin",
+      "source": "datavis",
+      "name": "Latin Club Fiesta Social Latin",
+      "start": "2026-02-06T21:30:00",
+      "end": "2026-02-07T00:00:00",
+      "city": "Haarlem",
+      "country": "NL",
+      "organisers": [
+        "Club Fiesta"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-hoofddorp-19-30-bachata-salsa-kizomba-fire",
+      "source": "datavis",
+      "name": "Bachata Salsa Kizomba Fire",
+      "start": "2026-02-06T19:30:00",
+      "end": "2026-02-07T01:00:00",
+      "city": "Hoofddorp",
+      "country": "NL",
+      "organisers": [
+        "Dance Academy"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-maastricht-22-00-just-jason-s-fiesta",
+      "source": "datavis",
+      "name": "Just Jason's Fiesta",
+      "start": "2026-02-06T22:00:00",
+      "end": "2026-02-07T01:30:00",
+      "city": "Maastricht",
+      "country": "NL",
+      "organisers": [
+        "Just Jason"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-nijmegen-21-00-all-salsa-bachata-kizomba-party-amann-",
+      "source": "datavis",
+      "name": "All Salsa-Bachata-Kizomba Party Amanné",
+      "start": "2026-02-06T21:00:00",
+      "end": "2026-02-07T02:00:00",
+      "city": "Nijmegen",
+      "country": "NL",
+      "organisers": [
+        "Carabisch Centrum"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-spijkenisse-20-00-salsa-beats-party",
+      "source": "datavis",
+      "name": "Salsa Beats Party",
+      "start": "2026-02-06T20:00:00",
+      "end": "2026-02-07T01:00:00",
+      "city": "Spijkenisse",
+      "country": "NL",
+      "organisers": [
+        "Salsa Beats"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-06-utrecht-21-00-social-dance-cuban-night",
+      "source": "datavis",
+      "name": "Social Dance: Cuban Night",
+      "start": "2026-02-06T21:00:00",
+      "end": "2026-02-07T01:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [
+        "Nova Dance"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-07-alblasserdam-20-00-latin-mix-party-latin",
+      "source": "datavis",
+      "name": "Latin Mix Party Latin",
+      "start": "2026-02-07T20:00:00",
+      "end": "2026-02-08T01:00:00",
+      "city": "Alblasserdam",
+      "country": "NL",
+      "organisers": [
+        "United J&B"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-07-amstelveen-20-30-latin-sensation-dj-mixto",
+      "source": "datavis",
+      "name": "Latin Sensation DJ Mixto",
+      "start": "2026-02-07T20:30:00",
+      "end": "2026-02-08T02:00:00",
+      "city": "Amstelveen",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-07-amsterdam-20-00-salsa-d-cuba-party",
+      "source": "datavis",
+      "name": "Salsa D'Cuba Party",
+      "start": "2026-02-07T20:00:00",
+      "end": "2026-02-08T01:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Punto Cubano"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-07-amsterdam-20-00-la-salsoteca-oropuro",
+      "source": "datavis",
+      "name": "La Salsoteca Oropuro",
+      "start": "2026-02-07T20:00:00",
+      "end": "2026-02-08T01:30:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Dance Community"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-07-amsterdam-21-00-bachata-factory-amsterdam",
+      "source": "datavis",
+      "name": "Bachata Factory Amsterdam",
+      "start": "2026-02-07T21:00:00",
+      "end": "2026-02-08T01:30:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Bachata Factory"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.365Z"
+    },
+    {
+      "id": "datavis-2026-02-07-assen-20-00-fiesta-isla-caribe-a-rik-indiana",
+      "source": "datavis",
+      "name": "Fiesta Isla Caribeña Rik & Indiana",
+      "start": "2026-02-07T20:00:00",
+      "end": "2026-02-08T01:00:00",
+      "city": "Assen",
+      "country": "NL",
+      "organisers": [
+        "Bachata Traditional"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-07-bilthoven-20-30-fuego-tropical-fuego-tropical",
+      "source": "datavis",
+      "name": "Fuego Tropical Fuego Tropical",
+      "start": "2026-02-07T20:30:00",
+      "end": "2026-02-07T23:30:00",
+      "city": "Bilthoven",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-07-den-haag-01-00-the-hague-salsa-night",
+      "source": "datavis",
+      "name": "01:00 The Hague Salsa Night",
+      "start": "2026-02-07THaag:00",
+      "end": "2026-02-07T21:00:00",
+      "city": "Den",
+      "country": "NL",
+      "organisers": [
+        "Remie Spanjerberg"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-07-dordrecht-23-00-pi-a-pi-a",
+      "source": "datavis",
+      "name": "PIÑA PIÑA",
+      "start": "2026-02-07T23:00:00",
+      "end": "2026-02-08T04:00:00",
+      "city": "Dordrecht",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-07-eindhoven-21-00-ritmo-social-salsa-sensation",
+      "source": "datavis",
+      "name": "Ritmo Social Salsa Sensation",
+      "start": "2026-02-07T21:00:00",
+      "end": "2026-02-08T01:00:00",
+      "city": "Eindhoven",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-07-groningen-22-00-latin-party-bailando-latino-el",
+      "source": "datavis",
+      "name": "Latin Party Bailando Latino, El",
+      "start": "2026-02-07T22:00:00",
+      "end": "2026-02-08T03:00:00",
+      "city": "Groningen",
+      "country": "NL",
+      "organisers": [
+        "Son Cubano"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-07-heerlen-20-00-party-salsasuerte",
+      "source": "datavis",
+      "name": "Party SalsaSuerte",
+      "start": "2026-02-07T20:00:00",
+      "end": "2026-02-07TSalsaSuerte:00",
+      "city": "Heerlen",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-07-helmond-20-00-caribbean-party-dj-son",
+      "source": "datavis",
+      "name": "Caribbean Party DJ Son",
+      "start": "2026-02-07T20:00:00",
+      "end": "2026-02-08T01:00:00",
+      "city": "Helmond",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-07-hoofddorp-18-00-bachata-salsa-kizomba-fire",
+      "source": "datavis",
+      "name": "Bachata Salsa Kizomba Fire",
+      "start": "2026-02-07T18:00:00",
+      "end": "2026-02-08T01:00:00",
+      "city": "Hoofddorp",
+      "country": "NL",
+      "organisers": [
+        "Dance Academy"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-07-rijswijk-22-00-noche-de-pasi-n",
+      "source": "datavis",
+      "name": "Noche de Pasión",
+      "start": "2026-02-07T22:00:00",
+      "end": "2026-02-08T03:30:00",
+      "city": "Rijswijk",
+      "country": "NL",
+      "organisers": [
+        "Alcindo Silva"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-07-rotterdam-22-00-latinxpress-typical-tropical",
+      "source": "datavis",
+      "name": "LatinXpress Typical Tropical",
+      "start": "2026-02-07T22:00:00",
+      "end": "2026-02-08T03:30:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-07-sittard-20-00-la-rosa-negra-salsila",
+      "source": "datavis",
+      "name": "La Rosa Negra Salsila",
+      "start": "2026-02-07T20:00:00",
+      "end": "2026-02-08T03:00:00",
+      "city": "Sittard",
+      "country": "NL",
+      "organisers": [
+        "Dance Company"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-07-utrecht-20-00-bindaas-utrecht-bindaas-",
+      "source": "datavis",
+      "name": "Bindaas Utrecht Bindaas -",
+      "start": "2026-02-07T20:00:00",
+      "end": "2026-02-08T01:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [
+        "Bachata Sensual"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-07-zwolle-21-00-zwollywood-11th-anniversary-xl-edition",
+      "source": "datavis",
+      "name": "Zwollywood - 11th Anniversary - XL Edition",
+      "start": "2026-02-07T21:00:00",
+      "end": "2026-02-08T02:00:00",
+      "city": "Zwolle",
+      "country": "NL",
+      "organisers": [
+        "Latinglobe Events"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-alphen-aan-rijn-16-00-19-00-latin-allfun-to-the-max-live-rudy",
+      "source": "datavis",
+      "name": "Rijn 16:00 19:00 Latin Allfun to the Max - Live Rudy Varela Have Fun",
+      "start": "2026-02-08Taan:00",
+      "end": "2026-02-08Tden:00",
+      "city": "Alphen",
+      "country": "NL",
+      "organisers": [
+        "on Salsa"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-amsterdam-13-00-salsa-caf-alfred-ommen",
+      "source": "datavis",
+      "name": "Salsa Café Alfred Ommen",
+      "start": "2026-02-08T13:00:00",
+      "end": "2026-02-08T17:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-amsterdam-20-00-zouk-social-brazilian",
+      "source": "datavis",
+      "name": "Zouk Social Brazilian",
+      "start": "2026-02-08T20:00:00",
+      "end": "2026-02-08T23:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Zouk Amsterdam"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-amsterdam-20-00-bachata-flavour-flavourkizz-events",
+      "source": "datavis",
+      "name": "Bachata Flavour FlavourKizz Events",
+      "start": "2026-02-08T20:00:00",
+      "end": "2026-02-09T00:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-amsterdam-21-00-latin-night-la-salsa",
+      "source": "datavis",
+      "name": "Latin Night La Salsa",
+      "start": "2026-02-08T21:00:00",
+      "end": "2026-02-09T00:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-axel-16-00-salsa-bar-salud",
+      "source": "datavis",
+      "name": "Salsa Bar Salud",
+      "start": "2026-02-08T16:00:00",
+      "end": "2026-02-08T21:00:00",
+      "city": "Axel",
+      "country": "NL",
+      "organisers": [
+        "DJ RiJo"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-beesd-17-00-fuego-tropical-fuego-tropical",
+      "source": "datavis",
+      "name": "Fuego Tropical Fuego Tropical",
+      "start": "2026-02-08T17:00:00",
+      "end": "2026-02-08T22:00:00",
+      "city": "Beesd",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-dordrecht-16-30-salsa2gether-party-salsasamen",
+      "source": "datavis",
+      "name": "Salsa2Gether Party SalsaSamen",
+      "start": "2026-02-08T16:30:00",
+      "end": "2026-02-08T21:00:00",
+      "city": "Dordrecht",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-gilze-19-00-the-latin-lodge",
+      "source": "datavis",
+      "name": "The Latin Lodge",
+      "start": "2026-02-08T19:00:00",
+      "end": "2026-02-09T00:00:00",
+      "city": "Gilze",
+      "country": "NL",
+      "organisers": [
+        "Marlon Suart"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-groningen-15-15-libertas-danza-dj-dawood",
+      "source": "datavis",
+      "name": "Libertas Danza DJ Dawood",
+      "start": "2026-02-08T15:15:00",
+      "end": "2026-02-08T19:30:00",
+      "city": "Groningen",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-hengelo-20-30-salsa-party-el-centro-de",
+      "source": "datavis",
+      "name": "Salsa Party El centro de",
+      "start": "2026-02-08T20:30:00",
+      "end": "2026-02-08T23:30:00",
+      "city": "Hengelo",
+      "country": "NL",
+      "organisers": [
+        "la Salsa"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-oud-zuilen-21-00-exclusive-kizomba-flow-experience-art",
+      "source": "datavis",
+      "name": "21:00 Exclusive Kizomba Flow Experience Art",
+      "start": "2026-02-08TZuilen:00",
+      "end": "2026-02-08T16:00:00",
+      "city": "Oud",
+      "country": "NL",
+      "organisers": [
+        "of Connection"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-rotterdam-18-30-kizomba-lounge-kizomba-lounge",
+      "source": "datavis",
+      "name": "Kizomba  Lounge Kizomba Lounge",
+      "start": "2026-02-08T18:30:00",
+      "end": "2026-02-08T22:30:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-spijkenisse-16-00-salsa-matinee-4salsa",
+      "source": "datavis",
+      "name": "Salsa Matinee 4Salsa",
+      "start": "2026-02-08T16:00:00",
+      "end": "2026-02-08T21:00:00",
+      "city": "Spijkenisse",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-08-utrecht-15-00-dansmatinee-dominican-bachata",
+      "source": "datavis",
+      "name": "Dansmatinee - Dominican Bachata",
+      "start": "2026-02-08T15:00:00",
+      "end": "2026-02-08T19:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [
+        "Nova Dance"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-09-amsterdam-21-00-bachata-on-mondays-bar",
+      "source": "datavis",
+      "name": "Bachata on Mondays Bar",
+      "start": "2026-02-09T21:00:00",
+      "end": "2026-02-10T00:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Twenty Two"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-09-amsterdam-21-00-kizz-meetup-kizz-meetup",
+      "source": "datavis",
+      "name": "Kizz MeetUp Kizz Meetup",
+      "start": "2026-02-09T21:00:00",
+      "end": "2026-02-10T01:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-09-hoofddorp-19-30-bachata-sensual-salsa-fire",
+      "source": "datavis",
+      "name": "Bachata Sensual & Salsa Fire",
+      "start": "2026-02-09T19:30:00",
+      "end": "2026-02-10T00:00:00",
+      "city": "Hoofddorp",
+      "country": "NL",
+      "organisers": [
+        "Dance Academy"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-09-weert-19-30-practice-nights-n-flow-dance",
+      "source": "datavis",
+      "name": "Practice Nights N-Flow Dance",
+      "start": "2026-02-09T19:30:00",
+      "end": "2026-02-09T22:30:00",
+      "city": "Weert",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.366Z"
+    },
+    {
+      "id": "datavis-2026-02-10-almere-21-45-let-s-dance-party-tropische",
+      "source": "datavis",
+      "name": "Let's Dance Party Tropische",
+      "start": "2026-02-10T21:45:00",
+      "end": "2026-02-11T00:30:00",
+      "city": "Almere",
+      "country": "NL",
+      "organisers": [
+        "Dansschool Burnet"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-10-amsterdam-22-00-kizomba-social-our",
+      "source": "datavis",
+      "name": "Kizomba Social Our",
+      "start": "2026-02-10T22:00:00",
+      "end": "2026-02-11T01:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Kizomba Connection"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-10-deventer-21-00-vrijdansen-salsa-cubaans-bachata",
+      "source": "datavis",
+      "name": "Vrijdansen - Salsa, Cubaans & Bachata",
+      "start": "2026-02-10T21:00:00",
+      "end": "2026-02-10T23:00:00",
+      "city": "Deventer",
+      "country": "NL",
+      "organisers": [
+        "Salsa Viva"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-10-groningen-20-00-libertas-danza-dj-dawood",
+      "source": "datavis",
+      "name": "Libertas Danza DJ Dawood",
+      "start": "2026-02-10T20:00:00",
+      "end": "2026-02-10T23:00:00",
+      "city": "Groningen",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-10-leiderdorp-21-00-latin-dos-bailadores",
+      "source": "datavis",
+      "name": "Latin  Dos Bailadores",
+      "start": "2026-02-10T21:00:00",
+      "end": "2026-02-11T00:30:00",
+      "city": "Leiderdorp",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-10-rotterdam-20-00-striktly-social-striktly-salsa",
+      "source": "datavis",
+      "name": "Striktly Social Striktly Salsa",
+      "start": "2026-02-10T20:00:00",
+      "end": "2026-02-11T01:00:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [
+        "en Bachata"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-10-rotterdam-20-00-mama-juana-bachata-autentica",
+      "source": "datavis",
+      "name": "Mama Juana - Bachata autentica",
+      "start": "2026-02-10T20:00:00",
+      "end": "2026-02-11T01:00:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [
+        "Mama Juana"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-10-rotterdam-21-00-afterworkz-kizomba-social",
+      "source": "datavis",
+      "name": "Afterworkz Kizomba Social",
+      "start": "2026-02-10T21:00:00",
+      "end": "2026-02-11T01:00:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [
+        "Mode Zéro"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-10-zoetermeer-21-30-snowworld-salsa-bachata",
+      "source": "datavis",
+      "name": "SnowWorld Salsa & Bachata",
+      "start": "2026-02-10T21:30:00",
+      "end": "2026-02-11T03:30:00",
+      "city": "Zoetermeer",
+      "country": "NL",
+      "organisers": [
+        "La Bodeguita"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-11-amsterdam-21-00-latin-night-la-salsa",
+      "source": "datavis",
+      "name": "Latin Night La Salsa",
+      "start": "2026-02-11T21:00:00",
+      "end": "2026-02-12T00:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-11-amsterdam-21-00-kizomba-night-caf-",
+      "source": "datavis",
+      "name": "Kizomba Night Café",
+      "start": "2026-02-11T21:00:00",
+      "end": "2026-02-12T01:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "São Paulo"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-11-arnhem-20-00-m-s-y-m-s-dj",
+      "source": "datavis",
+      "name": "Más y Más DJ",
+      "start": "2026-02-11T20:00:00",
+      "end": "2026-02-11T23:00:00",
+      "city": "Arnhem",
+      "country": "NL",
+      "organisers": [
+        "El Bachataro"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-11-de-bilt-23-00-universal-salsa-night-peurs",
+      "source": "datavis",
+      "name": "23:00 Universal Salsa Night Peurs",
+      "start": "2026-02-11TBilt:00",
+      "end": "2026-02-11T20:30:00",
+      "city": "De",
+      "country": "NL",
+      "organisers": [
+        "Universal Salsa"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-11-den-haag-01-00-salsa-night",
+      "source": "datavis",
+      "name": "01:00 Salsa Night",
+      "start": "2026-02-11THaag:00",
+      "end": "2026-02-11T21:00:00",
+      "city": "Den",
+      "country": "NL",
+      "organisers": [
+        "La Bodeguita"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-11-gouda-20-00-rookie-social-club-vrije-dans-en-oefenavond-latin",
+      "source": "datavis",
+      "name": "Rookie Social Club - Vrije dans- en oefenavond Latin",
+      "start": "2026-02-11T20:00:00",
+      "end": "2026-02-11T23:00:00",
+      "city": "Gouda",
+      "country": "NL",
+      "organisers": [
+        "Dance Holland"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-11-utrecht-22-00-bachata-practice-night",
+      "source": "datavis",
+      "name": "Bachata Practice Night",
+      "start": "2026-02-11T22:00:00",
+      "end": "2026-02-12T01:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [
+        "Nova Dance"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-alphen-aan-rijn-19-15-23-15-latinallfun-party-have-fun",
+      "source": "datavis",
+      "name": "Rijn 19:15 23:15 LatinAllFun Party Have Fun",
+      "start": "2026-02-12Taan:00",
+      "end": "2026-02-12Tden:00",
+      "city": "Alphen",
+      "country": "NL",
+      "organisers": [
+        "on Salsa"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-amersfoort-19-30-fuego-tropical-fuego-tropical",
+      "source": "datavis",
+      "name": "Fuego Tropical Fuego Tropical",
+      "start": "2026-02-12T19:30:00",
+      "end": "2026-02-12T23:30:00",
+      "city": "Amersfoort",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-amsterdam-20-00-latin-latin-dance-culture",
+      "source": "datavis",
+      "name": "Latin  Latin Dance Culture",
+      "start": "2026-02-12T20:00:00",
+      "end": "2026-02-13T00:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-amsterdam-21-00-salsa-night-ok-n-salsa",
+      "source": "datavis",
+      "name": "Salsa Night Okán Salsa",
+      "start": "2026-02-12T21:00:00",
+      "end": "2026-02-13T01:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-amsterdam-21-00-bachata-in-the-city",
+      "source": "datavis",
+      "name": "Bachata in the City",
+      "start": "2026-02-12T21:00:00",
+      "end": "2026-02-13T01:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Cancún Amsterdam"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-breda-21-00-libre-latin-night-libre-dance",
+      "source": "datavis",
+      "name": "Libre Latin Night Libre dance",
+      "start": "2026-02-12T21:00:00",
+      "end": "2026-02-13T01:00:00",
+      "city": "Breda",
+      "country": "NL",
+      "organisers": [
+        "and more"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-den-haag-01-00-latin-night-musicon",
+      "source": "datavis",
+      "name": "01:00 Latin Night Musicon",
+      "start": "2026-02-12THaag:00",
+      "end": "2026-02-12T20:30:00",
+      "city": "Den",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-eindhoven-21-00-salsa-y-mojito-salsa-social-dancing-santiago",
+      "source": "datavis",
+      "name": "Salsa y Mojito - Salsa social dancing Santiago",
+      "start": "2026-02-12T21:00:00",
+      "end": "2026-02-13T01:00:00",
+      "city": "Eindhoven",
+      "country": "NL",
+      "organisers": [
+        "de Cuba"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-enschede-21-00-rico-latino-social-dance",
+      "source": "datavis",
+      "name": "Rico Latino Social Dance",
+      "start": "2026-02-12T21:00:00",
+      "end": "2026-02-13T01:00:00",
+      "city": "Enschede",
+      "country": "NL",
+      "organisers": [
+        "Rico Latino"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-hoofddorp-19-30-kizomba-urban-kizz-fire",
+      "source": "datavis",
+      "name": "Kizomba Urban Kizz Fire",
+      "start": "2026-02-12T19:30:00",
+      "end": "2026-02-13T00:00:00",
+      "city": "Hoofddorp",
+      "country": "NL",
+      "organisers": [
+        "Dance Academy"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-hoogvliet-21-00-mi-zjilea-practice-night",
+      "source": "datavis",
+      "name": "Mi Zjilea Practice Night",
+      "start": "2026-02-12T21:00:00",
+      "end": "2026-02-13T00:30:00",
+      "city": "Hoogvliet",
+      "country": "NL",
+      "organisers": [
+        "Mi Zjilea"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-rotterdam-21-00-elevate-your-kiz-practice-night-elevate",
+      "source": "datavis",
+      "name": "Elevate Your Kiz Practice Night Elevate",
+      "start": "2026-02-12T21:00:00",
+      "end": "2026-02-13T01:00:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [
+        "Your Kiz"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-tilburg-21-00-fiesta-tropical-didier-numbi",
+      "source": "datavis",
+      "name": "Fiesta Tropical Didier Numbi",
+      "start": "2026-02-12T21:00:00",
+      "end": "2026-02-13T01:30:00",
+      "city": "Tilburg",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-utrecht-21-00-latin-night-union-salsa",
+      "source": "datavis",
+      "name": "Latin Night Union Salsa",
+      "start": "2026-02-12T21:00:00",
+      "end": "2026-02-13T01:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [
+        "Dance Company"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-12-venlo-20-00-salsa-night-grenswerk-caf-",
+      "source": "datavis",
+      "name": "Salsa Night Grenswerk Café",
+      "start": "2026-02-12T20:00:00",
+      "end": "2026-02-12T23:00:00",
+      "city": "Venlo",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-s-hertogenbosch-21-00-spaanse-avond-carnavalseditie-boerengoe",
+      "source": "datavis",
+      "name": "Spaanse avond - Carnavalseditie Boerengoed",
+      "start": "2026-02-13T21:00:00",
+      "end": "2026-02-14T01:00:00",
+      "city": "'s-Hertogenbosch",
+      "country": "NL",
+      "organisers": [
+        "Den Bosch"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-amsterdam-20-30-bindaas-beats-amsterdam-grand-opening-bindaas",
+      "source": "datavis",
+      "name": "Bindaas Beats Amsterdam - Grand Opening Bindaas -",
+      "start": "2026-02-13T20:30:00",
+      "end": "2026-02-14T03:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Bachata Sensual"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-amsterdam-20-30-kizz-meetup-kizz-meetup",
+      "source": "datavis",
+      "name": "Kizz MeetUp Kizz Meetup",
+      "start": "2026-02-13T20:30:00",
+      "end": "2026-02-14T03:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-amsterdam-21-00-bilongo-social-on-vinyl-3rd-anniversary-bilon",
+      "source": "datavis",
+      "name": "Bilongo Social on Vinyl - 3rd Anniversary Bilongo",
+      "start": "2026-02-13T21:00:00",
+      "end": "2026-02-14T02:45:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Social Club"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-breda-20-15-latin-caribbean-carnaval-night-libre-dance",
+      "source": "datavis",
+      "name": "Latin Caribbean Carnaval Night Libre dance",
+      "start": "2026-02-13T20:15:00",
+      "end": "2026-02-14T02:00:00",
+      "city": "Breda",
+      "country": "NL",
+      "organisers": [
+        "and more"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-breda-21-00-specials-salsa-carnaval-salsa",
+      "source": "datavis",
+      "name": "Specials: Salsa Carnaval Salsa",
+      "start": "2026-02-13T21:00:00",
+      "end": "2026-02-14T01:00:00",
+      "city": "Breda",
+      "country": "NL",
+      "organisers": [
+        "in Breda.nl"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-emmen-20-30-salsa-caf-salsa",
+      "source": "datavis",
+      "name": "Salsa Café Salsa",
+      "start": "2026-02-13T20:30:00",
+      "end": "2026-02-14T00:30:00",
+      "city": "Emmen",
+      "country": "NL",
+      "organisers": [
+        "in Emmen"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-enschede-23-00-fiesta-macumba-fiesta-macumba",
+      "source": "datavis",
+      "name": "Fiesta Macumba Fiesta Macumba",
+      "start": "2026-02-13T23:00:00",
+      "end": "2026-02-14T04:00:00",
+      "city": "Enschede",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-groningen-20-00-virgula-social-musique-spotlight",
+      "source": "datavis",
+      "name": "Virgula Social Musique Spotlight",
+      "start": "2026-02-13T20:00:00",
+      "end": "2026-02-14T02:00:00",
+      "city": "Groningen",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-haarlem-21-30-latin-club-fiesta-social-latin",
+      "source": "datavis",
+      "name": "Latin Club Fiesta Social Latin",
+      "start": "2026-02-13T21:30:00",
+      "end": "2026-02-14T00:00:00",
+      "city": "Haarlem",
+      "country": "NL",
+      "organisers": [
+        "Club Fiesta"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-hilversum-20-00-muevalma-valentijn-party-esencia",
+      "source": "datavis",
+      "name": "Muevalma Valentijn Party Esencia",
+      "start": "2026-02-13T20:00:00",
+      "end": "2026-02-14T00:30:00",
+      "city": "Hilversum",
+      "country": "NL",
+      "organisers": [
+        "Dance Studio"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-hoofddorp-19-30-bachata-salsa-kizomba-fire",
+      "source": "datavis",
+      "name": "Bachata Salsa Kizomba Fire",
+      "start": "2026-02-13T19:30:00",
+      "end": "2026-02-14T01:00:00",
+      "city": "Hoofddorp",
+      "country": "NL",
+      "organisers": [
+        "Dance Academy"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-kinderdijk-21-30-bachata-ex-tica-exotic-events",
+      "source": "datavis",
+      "name": "Bachata Exótica Exotic-Events",
+      "start": "2026-02-13T21:30:00",
+      "end": "2026-02-14T02:30:00",
+      "city": "Kinderdijk",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-lelystad-20-00-bkrk-exclusive-happy-hour-party-dj",
+      "source": "datavis",
+      "name": "BKRK Exclusive Happy Hour Party DJ",
+      "start": "2026-02-13T20:00:00",
+      "end": "2026-02-14T01:00:00",
+      "city": "Lelystad",
+      "country": "NL",
+      "organisers": [
+        "Latin Pro"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-lelystad-20-00-latin-happy-hour-live-band-el-trio-amigos",
+      "source": "datavis",
+      "name": "Latin Happy Hour - Live Band El Trio Amigos",
+      "start": "2026-02-13T20:00:00",
+      "end": "2026-02-14T01:00:00",
+      "city": "Lelystad",
+      "country": "NL",
+      "organisers": [
+        "Dude Entertainment"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-maastricht-22-00-just-jason-s-fiesta",
+      "source": "datavis",
+      "name": "Just Jason's Fiesta",
+      "start": "2026-02-13T22:00:00",
+      "end": "2026-02-14T01:30:00",
+      "city": "Maastricht",
+      "country": "NL",
+      "organisers": [
+        "Just Jason"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-nijmegen-21-00-all-salsa-bachata-kizomba-party-amann-",
+      "source": "datavis",
+      "name": "All Salsa-Bachata-Kizomba Party Amanné",
+      "start": "2026-02-13T21:00:00",
+      "end": "2026-02-14T02:00:00",
+      "city": "Nijmegen",
+      "country": "NL",
+      "organisers": [
+        "Carabisch Centrum"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-rotterdam-21-30-salsa-aan-de-haven-salsa-aan",
+      "source": "datavis",
+      "name": "Salsa aan de Haven Salsa aan",
+      "start": "2026-02-13T21:30:00",
+      "end": "2026-02-14T01:30:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [
+        "de Haven"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-utrecht-21-00-bachata-factory",
+      "source": "datavis",
+      "name": "Bachata Factory",
+      "start": "2026-02-13T21:00:00",
+      "end": "2026-02-14T01:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-utrecht-21-00-social-dance-kizomba-night",
+      "source": "datavis",
+      "name": "Social Dance: Kizomba Night",
+      "start": "2026-02-13T21:00:00",
+      "end": "2026-02-14T01:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [
+        "Nova Dance"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-volendam-20-30-salsa-libre-salsa-libre",
+      "source": "datavis",
+      "name": "Salsa Libre Salsa Libre",
+      "start": "2026-02-13T20:30:00",
+      "end": "2026-02-14T01:00:00",
+      "city": "Volendam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-13-weesp-20-30-the-salsa-get-down-vivendi",
+      "source": "datavis",
+      "name": "The Salsa Get Down Vivendi",
+      "start": "2026-02-13T20:30:00",
+      "end": "2026-02-14T01:00:00",
+      "city": "Weesp",
+      "country": "NL",
+      "organisers": [
+        "Dance Collective"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-14-almere-21-00-latin-groove-tropische",
+      "source": "datavis",
+      "name": "Latin Groove Tropische",
+      "start": "2026-02-14T21:00:00",
+      "end": "2026-02-15T02:00:00",
+      "city": "Almere",
+      "country": "NL",
+      "organisers": [
+        "Dansschool Burnet"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.367Z"
+    },
+    {
+      "id": "datavis-2026-02-14-amstelveen-20-00-kizomba-party-valentine-edition",
+      "source": "datavis",
+      "name": "Kizomba Party - Valentine Edition",
+      "start": "2026-02-14T20:00:00",
+      "end": "2026-02-15T02:00:00",
+      "city": "Amstelveen",
+      "country": "NL",
+      "organisers": [
+        "FlavourKizz Events"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-amsterdam-17-00-salsa-latin-party-santana",
+      "source": "datavis",
+      "name": "Salsa Latin Party Santana",
+      "start": "2026-02-14T17:00:00",
+      "end": "2026-02-14T23:00:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [
+        "Latin Events"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-amsterdam-20-30-bachatabox-bailemos",
+      "source": "datavis",
+      "name": "BachataBox Bailemos",
+      "start": "2026-02-14T20:30:00",
+      "end": "2026-02-15T02:30:00",
+      "city": "Amsterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-den-helder-00-00-valentine-latin-party",
+      "source": "datavis",
+      "name": "00:00 Valentine Latin Party",
+      "start": "2026-02-14THelder:00",
+      "end": "2026-02-14T20:00:00",
+      "city": "Den",
+      "country": "NL",
+      "organisers": [
+        "Tropical Salsa"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-diepenveen-20-30-salsa-deluxe-salsa-viva",
+      "source": "datavis",
+      "name": "Salsa  Deluxe Salsa Viva",
+      "start": "2026-02-14T20:30:00",
+      "end": "2026-02-15T01:00:00",
+      "city": "Diepenveen",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-gorinchem-21-00-dance-the-night",
+      "source": "datavis",
+      "name": "Dance The Night",
+      "start": "2026-02-14T21:00:00",
+      "end": "2026-02-15T02:00:00",
+      "city": "Gorinchem",
+      "country": "NL",
+      "organisers": [
+        "Away SalsaDushi"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-heerlen-20-00-latin-carnaval-sabakiz-party-nathan-events-medi",
+      "source": "datavis",
+      "name": "Latin Carnaval SaBaKiz Party Nathan Events & Media, Dansschool",
+      "start": "2026-02-14T20:00:00",
+      "end": "2026-02-15T01:00:00",
+      "city": "Heerlen",
+      "country": "NL",
+      "organisers": [
+        "Salsa Gozadera"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-hengelo-20-00-valentijn-latin-party-el-centro-de",
+      "source": "datavis",
+      "name": "Valentijn Latin Party El centro de",
+      "start": "2026-02-14T20:00:00",
+      "end": "2026-02-14T23:30:00",
+      "city": "Hengelo",
+      "country": "NL",
+      "organisers": [
+        "la Salsa"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-hoofddorp-18-00-bachata-salsa-kizomba-fire",
+      "source": "datavis",
+      "name": "Bachata Salsa Kizomba Fire",
+      "start": "2026-02-14T18:00:00",
+      "end": "2026-02-15T01:00:00",
+      "city": "Hoofddorp",
+      "country": "NL",
+      "organisers": [
+        "Dance Academy"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-joure-20-00-dance2delight-valentines-edition-west-coast-swing",
+      "source": "datavis",
+      "name": "Dance2Delight - Valentines Edition West Coast Swing Noord-Nederland,",
+      "start": "2026-02-14T20:00:00",
+      "end": "2026-02-15T00:00:00",
+      "city": "Joure",
+      "country": "NL",
+      "organisers": [
+        "Dansschool SalseroMboka"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-leeuwarden-21-00-house-of-salsa-valentine-edition",
+      "source": "datavis",
+      "name": "House of Salsa - Valentine Edition",
+      "start": "2026-02-14T21:00:00",
+      "end": "2026-02-15T02:00:00",
+      "city": "Leeuwarden",
+      "country": "NL",
+      "organisers": [
+        "DJ Mixto"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-nijmegen-20-00-onderonsje-party-onderonsje",
+      "source": "datavis",
+      "name": "Onderonsje Party Onderonsje",
+      "start": "2026-02-14T20:00:00",
+      "end": "2026-02-15T01:00:00",
+      "city": "Nijmegen",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-rotterdam-21-00-happy-valentines-day-salsability",
+      "source": "datavis",
+      "name": "Happy Valentines Day Salsability",
+      "start": "2026-02-14T21:00:00",
+      "end": "2026-02-15T02:00:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-rotterdam-23-30-fiesta-macumba-fiesta-macumba",
+      "source": "datavis",
+      "name": "Fiesta Macumba Fiesta Macumba",
+      "start": "2026-02-14T23:30:00",
+      "end": "2026-02-15T04:30:00",
+      "city": "Rotterdam",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-sittard-20-00-noche-latina-salsila",
+      "source": "datavis",
+      "name": "Noche Latina Salsila",
+      "start": "2026-02-14T20:00:00",
+      "end": "2026-02-15T03:00:00",
+      "city": "Sittard",
+      "country": "NL",
+      "organisers": [
+        "Dance Company"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-tilburg-21-00-valatinos-grand-opening-partner-up",
+      "source": "datavis",
+      "name": "VaLatinos - Grand Opening Partner-Up",
+      "start": "2026-02-14T21:00:00",
+      "end": "2026-02-15T02:30:00",
+      "city": "Tilburg",
+      "country": "NL",
+      "organisers": [
+        "Dance Events"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.368Z"
+    },
+    {
+      "id": "datavis-2026-02-14-tilburg-22-00-fiesta-tropical-happy-valentine-day",
+      "source": "datavis",
+      "name": "Fiesta Tropical - Happy Valentine Day",
+      "start": "2026-02-14T22:00:00",
+      "end": "2026-02-15T03:00:00",
+      "city": "Tilburg",
+      "country": "NL",
+      "organisers": [
+        "Didier Numbi"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.369Z"
+    },
+    {
+      "id": "datavis-2026-02-14-utrecht-18-00-latin-party-soy-cubano",
+      "source": "datavis",
+      "name": "Latin Party Soy Cubano",
+      "start": "2026-02-14T18:00:00",
+      "end": "2026-02-15T01:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.369Z"
+    },
+    {
+      "id": "datavis-2026-02-14-utrecht-20-00-salsa-madhouse-xxxl-valentine-edition",
+      "source": "datavis",
+      "name": "Salsa Madhouse XXXL - Valentine Edition",
+      "start": "2026-02-14T20:00:00",
+      "end": "2026-02-15T03:00:00",
+      "city": "Utrecht",
+      "country": "NL",
+      "organisers": [
+        "Michael Kiruba"
+      ],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.369Z"
+    },
+    {
+      "id": "datavis-2026-02-14-vlissingen-20-00-valentine-s-latin-party-salsacademy",
+      "source": "datavis",
+      "name": "Valentine's Latin Party Salsacademy",
+      "start": "2026-02-14T20:00:00",
+      "end": "2026-02-15T02:00:00",
+      "city": "Vlissingen",
+      "country": "NL",
+      "organisers": [],
+      "djs": [],
+      "description": "",
+      "links": [],
+      "lastUpdated": "2026-01-31T10:50:39.369Z"
     }
   ]
 }
