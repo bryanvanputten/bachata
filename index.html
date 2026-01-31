@@ -31,24 +31,33 @@
   <script>
     const DAYS = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
 
-    function dayNameFromISO(isoString) {
+function safeDate(isoString) {
   const d = new Date(isoString);
-  const weekday = new Intl.DateTimeFormat("en-GB", {
-    timeZone: "Europe/Amsterdam",
-    weekday: "long"
-  }).format(d);
-  return weekday;
+  return Number.isFinite(d.getTime()) ? d : null;
 }
 
-   function formatDateTime(isoString) {
-  const d = new Date(isoString);
+function dayNameFromISO(isoString) {
+  const d = safeDate(isoString);
+  if (!d) return null;
+
+  return new Intl.DateTimeFormat("en-GB", {
+    timeZone: "Europe/Amsterdam",
+    weekday: "long",
+  }).format(d);
+}
+
+function formatDateTime(isoString) {
+  const d = safeDate(isoString);
+  if (!d) return "Invalid date";
+
   return new Intl.DateTimeFormat("en-GB", {
     timeZone: "Europe/Amsterdam",
     weekday: "short",
     hour: "2-digit",
-    minute: "2-digit"
+    minute: "2-digit",
   }).format(d);
 }
+
 
 function capLinks(links) {
   if (!Array.isArray(links)) return [];
@@ -60,6 +69,7 @@ function capLinks(links) {
 
 
     function renderWeek(events, lastUpdated) {
+      events = (events || []).filter(ev => ev && ev.start && safeDate(ev.start));
       const grid = document.getElementById("weekGrid");
       grid.innerHTML = "";
 
